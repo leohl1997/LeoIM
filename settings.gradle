@@ -1,2 +1,3 @@
+include ':im_lib'
 include ':app'
 rootProject.name = "LeoIM"
